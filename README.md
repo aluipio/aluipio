@@ -1,5 +1,5 @@
 ## ⚡ Analista de Dados | Python | Dev FullStack PHP e JavaScript ⚡
-- 🌱 Estudando Ciências de Dados
+- 🌱 Estudante Ciências de Dados
 <!-- https://github.com/anuraghazra/github-readme-stats 180em-->
 <div align="center">
   <a href="https://github.com/aluipio">

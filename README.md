@@ -3,8 +3,8 @@
 <!-- https://github.com/anuraghazra/github-readme-stats 180em-->
 <div align="center">
   <a href="https://github.com/aluipio">
-  <img height="180em" width="50%" src="https://github-readme-stats.vercel.app/api?username=aluipio&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aluipio&layout=compact&langs_count=7&theme=dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=aluipio&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aluipio&layout=compact&langs_count=7&theme=dark"/>
 </div>  
 <!-- https://github.com/devicons/devicon/tree/master/icons -->
 <div style="display: inline_block"><br>

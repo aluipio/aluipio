@@ -19,9 +19,9 @@
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="PHP" height="30" width="40" 
     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
-  <img width="30" height="30" alt="MySQL" 
+  <img align="center" width="30" height="40" alt="MySQL" 
     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"/>
-  <img width="30" height="30" alt="PostgreSQL" 
+  <img align="center" width="30" height="40" alt="PostgreSQL" 
     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg"/>
   <img align="center" alt="CodeIgniter" height="30" width="40"  
     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/codeigniter/codeigniter-plain.svg">

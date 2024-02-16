@@ -7,6 +7,7 @@
 - 🌱 Estudante Ciências de Dados
 
 ### Skills
+---
 <!-- https://github.com/devicons/devicon/tree/master/icons -->
 <div style="display: inline_block"><br>
   <img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -18,10 +19,10 @@
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="PHP" height="30" width="40" 
     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
-  <img width="30" height="40" alt="MySQL"
-    src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" />
-  <img width="30" height="40" alt="PostgreSQL"
-    src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg"  />  
+  <img width="30" height="40" alt="MySQL" 
+    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"/>
+  <img width="30" height="40" alt="PostgreSQL" 
+    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg"/>
   <img align="center" alt="CodeIgniter" height="30" width="40"  
     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/codeigniter/codeigniter-plain.svg">
   <img align="center" alt="Dart" height="30" width="40" 
@@ -29,7 +30,7 @@
 </div>
   
 ### Publicações
-  
+---
 <div align="center">
   <a href="https://github.com/aluipio">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=aluipio&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>

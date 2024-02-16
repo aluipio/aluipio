@@ -1,8 +1,6 @@
 # 👋 Sou **Anderson Miranda**
-========================
 
 ## ⚡ Analista de Dados | Python | Java Script | Dev FullStack PHP ⚡
----
 
 - 🌍 Sou de Serra Talhada, Pernambuco, Brasil
 - 🧠 Trabalho com Análise de Dados
